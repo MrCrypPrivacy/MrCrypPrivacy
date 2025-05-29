@@ -70,9 +70,7 @@
 <a href="https://x.com/L0rd_t0ken" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
-  <a href="https://t.me/yourusername" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+
 </div>  
 
 --- 
