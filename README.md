@@ -1,6 +1,6 @@
 ## <p align="center"> 🕷️ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕥𝕙𝕖 𝕤𝕙𝕒𝕕𝕠𝕨𝕤! 🕷️
  
-![Header](github-header-image.png)
+![Header](github-header-image1.png)
  
 ## <p align="center"> 🧑🏻‍💻 𝕎𝕙𝕠𝕒𝕞𝕚 🕷️
 
