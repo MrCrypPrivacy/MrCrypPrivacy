@@ -70,11 +70,11 @@
 
 ### <p align="center"> 📬 𝕃𝕖𝕥'𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥
 
-<div align="center">
-<a href="https://x.com/L0rd_t0ken" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
+<div align="center" style="margin: 10px 0;">
+  <a href="https://x.com/L0rd_t0ken" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X logo" width="40" style="vertical-align: middle;" />
+  </a>
+</div>
 
-</div>  
 
 --- 
