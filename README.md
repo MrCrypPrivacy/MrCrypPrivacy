@@ -5,9 +5,7 @@
 ## <p align="center"> 🧑🏻‍💻 𝕎𝕙𝕠𝕒𝕞𝕚 🕷️
 
 <p align="center">
-  ᴠᴇʀꜱᴀᴛɪʟᴇ ᴀɴᴅ ʜɪɢʜʟʏ ꜱᴋɪʟʟᴇᴅ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ ꜱᴘᴇᴄɪᴀʟɪꜱᴛ ᴡɪᴛʜ 5+ ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ᴏꜰꜰᴇɴꜱɪᴠᴇ ꜱᴇᴄᴜʀɪᴛʏ.<br>
-  ᴅᴇᴇᴘʟʏ ᴋɴᴏᴡʟᴇᴅɢᴇᴀʙʟᴇ ɪɴ ᴛʜᴇ ꜰᴜʟʟ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ʟɪꜰᴇᴄʏᴄʟᴇ ᴀɴᴅ ɪɴꜰʀᴀꜱᴛʀᴜᴄᴛᴜʀᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ, ᴡɪᴛʜ ʜᴀɴᴅꜱ-ᴏɴ ᴇxᴘᴇʀᴛɪꜱᴇ ɪɴ ʙᴜɪʟᴅɪɴɢ, ꜱᴇᴄᴜʀɪɴɢ, ᴀɴᴅ ꜱᴄᴀʟɪɴɢ ʀᴇꜱɪʟɪᴇɴᴛ ꜱʏꜱᴛᴇᴍꜱ.<br>
-  ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ʀᴇᴅ ᴛᴇᴀᴍ ᴏᴘᴇʀᴀᴛɪᴏɴꜱ ᴀɴᴅ ᴠᴜʟɴᴇʀᴀʙɪʟɪᴛʏ ᴇxᴘʟᴏɪᴛᴀᴛɪᴏɴ ᴛᴏ ꜱᴛʀᴇɴɢᴛʜᴇɴ ᴅɪɢɪᴛᴀʟ ᴅᴇꜰᴇɴꜱᴇꜱ.<br>
+  ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴏꜰꜰᴇɴꜱɪᴠᴇ ꜱᴇᴄᴜʀɪᴛʏ ꜱᴘᴇᴄɪᴀʟɪꜱᴛ ᴡɪᴛʜ 5+ ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ɪɴꜰʀᴀꜱᴛʀᴜᴄᴛᴜʀᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ. ᴇxᴘᴇʀᴛ ɪɴ ʙᴜɪʟᴅɪɴɢ, ꜱᴇᴄᴜʀɪɴɢ, ᴀɴᴅ ꜱᴄᴀʟɪɴɢ ʀᴇꜱɪʟɪᴇɴᴛ ꜱʏꜱᴛᴇᴍꜱ. ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ ʜᴜɴᴛɪɴɢ ᴠᴜʟɴᴇʀᴀʙɪʟɪᴛɪᴇꜱ ᴀɴᴅ ꜱᴛʀᴇɴɢᴛʜᴇɴɪɴɢ ᴅɪɢɪᴛᴀʟ ꜰᴇɴᴄᴇꜱ. ᴄᴏᴍᴍɪᴛᴛᴇᴅ ᴛᴏ ᴘʀɪᴠᴀᴄʏ, ꜱᴇᴄᴜʀɪᴛʏ, ᴀɴᴅ ꜰʀᴇᴇᴅᴏᴍ<br>
 </p>
 
 <p align="center">
@@ -15,7 +13,7 @@
 </p>
 
 <p align="center">
-  ʀᴇᴅ ᴛᴇᴀᴍ & ᴘᴇɴᴇᴛʀᴀᴛɪᴏɴ ᴛᴇꜱᴛɪɴɢ | ᴏꜱᴄᴘ, ᴄᴇʜ, ᴄɪꜱꜱᴘ & ᴄᴘᴇ ᴄᴇʀᴛɪꜰɪᴇᴅ | ᴇxᴘʟᴏɪᴛɪɴɢ & ꜱᴇᴄᴜʀɪɴɢ ᴛʜᴇ ᴅɪɢɪᴛᴀʟ ᴡᴏʀʟᴅ 💻🔐
+  ᴠᴇʀꜱᴀᴛɪʟᴇ ᴏꜰꜰᴇɴꜱɪᴠᴇ ꜱᴇᴄᴜʀɪᴛʏ ʜᴀᴄᴋᴇʀ | ᴅɪɢɪᴛᴀʟ ᴘʀɪᴠᴀᴄʏ ᴡᴀʀʀɪᴏʀ | ᴏꜱᴄᴘ | ʙᴜɪʟᴅɪɴɢ, ꜱᴇᴄᴜʀɪɴɢ & ꜱᴄᴀʟɪɴɢ ʀᴇꜱɪʟɪᴇɴᴛ ꜱʏꜱᴛᴇᴍꜱ | ᴇxᴘʟᴏɪᴛ ᴅᴇᴠ / ᴀᴅ ᴀᴛᴛᴀᴄᴋꜱ | ɴᴏ ᴅᴀᴛᴀ. ɴᴏ ᴛʀᴜꜱᴛ. ᴋɴᴏᴡ ᴇᴠᴇʀʏ ᴠᴜʟɴ.
 </p>
 
 ---
@@ -35,9 +33,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/OSCP-Black?style=for-the-badge&logo=offensive-security&logoColor=white" alt="OSCP" />
-  <img src="https://img.shields.io/badge/CEH-0078D7?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH" />
-  <img src="https://img.shields.io/badge/CISSP-2E7D32?style=for-the-badge&logo=isc2&logoColor=white" alt="CISSP" />
-  <img src="https://img.shields.io/badge/CPE-FF6F00?style=for-the-badge&logo=certificate&logoColor=white" alt="CPE" />
 </div>
 
 ---
@@ -62,7 +57,6 @@
   ![Monero](https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
   ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
   ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white)
-  ![Zcash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)
 
 </div>
 
