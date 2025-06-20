@@ -71,7 +71,7 @@
 ### <p align="center"> 📬 𝕃𝕖𝕥'𝕤 ℂ𝕠𝕟𝕟𝕖𝕔𝕥
 
 <div align="center" style="margin: 10px 0;">
-  <a href="https://x.com/L0rd_t0ken" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/MrCrypPrivacy" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X logo" width="40" style="vertical-align: middle;" />
   </a>
 </div>
