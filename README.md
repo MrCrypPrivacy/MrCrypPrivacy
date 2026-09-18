@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="./logo.svg" alt="MrCrypPrivacy Logo" width="420"/>
+<img src="./logo.svg" alt="MrCrypPrivacy" width="420">
 
 # MrCrypPrivacy
 
-### Offensive Security · Privacy · Open Source
+### Security · Privacy · Open Source
 
 **Open-source Maintainer & Contributor**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/MrCrypPrivacy)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
+[![X](https://img.shields.io/badge/@MrCrypPrivacy-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
+[![GitHub](https://img.shields.io/badge/GitHub-MrCrypPrivacy-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/MrCrypPrivacy)
 
 </div>
 
@@ -19,13 +19,13 @@
 
 ## About
 
-I'm a security-focused developer interested in **privacy, offensive security and open-source software**.
+I care about **digital privacy** and how easily most systems give it away.
 
-I build, maintain and contribute to projects that I find useful, while experimenting with new ideas and tools along the way.
+Most of my work is focused on **offensive security** — finding the gaps in a system before someone with worse intentions does.
 
-My approach is simple:
+**OSCP certified.**
 
-> **Build useful things. Keep them open. Respect privacy.**
+I also build software on the side, usually to solve a problem I ran into myself.
 
 ---
 
@@ -40,18 +40,20 @@ My approach is simple:
 Offensive security, security research and security tooling.
 
 </td>
+
 <td width="33%" align="center">
 
 ### 🛡️ Privacy
 
-Privacy-focused software and tools designed with privacy in mind.
+Privacy-focused software and tools designed to keep data where it belongs.
 
 </td>
+
 <td width="33%" align="center">
 
 ### ⚙️ Open Source
 
-Maintaining, contributing to and building open-source projects.
+Building, maintaining and contributing to open-source projects.
 
 </td>
 </tr>
@@ -63,33 +65,39 @@ Maintaining, contributing to and building open-source projects.
 
 ### 🔎 Auditra
 
-A security-focused open-source project I'm currently developing.
+A desktop trade analytics dashboard for Hyperliquid wallets.
 
-**Repository:** [MrCrypPrivacy/Auditra](https://github.com/MrCrypPrivacy/Auditra)
+Built with **Flutter**, with no backend, and designed to work with public on-chain data.
 
-### 🛠️ More projects
+→ [View Auditra](https://github.com/MrCrypPrivacy/Auditra)
 
-I'm continuously experimenting with new tools, ideas and projects around security, privacy and open source.
+### 🔳 QR Generator
 
-Take a look through my repositories to see what I'm currently building.
+A **local-only** QR code generator built with Python.
 
-[**→ Explore my repositories**](https://github.com/MrCrypPrivacy?tab=repositories)
+No external services, no data sent online — everything happens locally.
+
+→ [View QR Generator](https://github.com/MrCrypPrivacy/qr_generator)
 
 ---
 
-## Currently working on
+## What I care about
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🔐 Security & privacy tooling                              │
-│  ⚙️  Open-source projects                                   │
-│  🧪 Experiments & new ideas                                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+Privacy        →  Keep control of your own data.
+Security       →  Find weaknesses before they become problems.
+Open Source    →  Build in the open and give back.
+Local-first    →  If it doesn't need the cloud, don't use it.
 ```
 
-Always building something.
+---
+
+## Currently building
+
+I'm always working on something.
+
+New security tools, privacy-focused software, open-source projects,
+and experiments born from problems I actually run into.
 
 ---
 
@@ -97,28 +105,28 @@ Always building something.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,godot&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,linux,bash,git,github&theme=dark">
 
 </div>
 
 ---
 
-## Certifications
+## Certification
 
 **OSCP — Offensive Security Certified Professional**
 
 ---
 
-## Find me
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MrCrypPrivacy-181717?style=for-the-badge\&logo=github)](https://github.com/MrCrypPrivacy)
-[![X](https://img.shields.io/badge/X-@MrCrypPrivacy-000000?style=for-the-badge\&logo=x)](https://x.com/MrCrypPrivacy)
+[![X](https://img.shields.io/badge/X-@MrCrypPrivacy-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
 
 <br><br>
 
-**Open source · Security · Privacy**
+**Security · Privacy · Open Source**
 
 </div>
+
 
