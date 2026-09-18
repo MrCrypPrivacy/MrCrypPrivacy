@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="MrCrypPrivacy" width="140">
+<img src="./logo.svg" alt="MrCrypPrivacy" width="140">
 
 # MrCrypPrivacy
 
