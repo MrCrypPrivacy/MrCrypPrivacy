@@ -75,11 +75,3 @@ I believe software should be **transparent, auditable, and accessible**.
 I'm interested in building, maintaining, and contributing to projects that give users more control over their technology and their data.
 
 </div>
-
-<div align="center">
-
-[GitHub](https://github.com/MrCrypPrivacy) · [X](https://x.com/MrCrypPrivacy)
-
-**Open to collaboration, contributions, and interesting projects.**
-
-</div>
