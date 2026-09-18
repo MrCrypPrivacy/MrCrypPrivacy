@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MrCrypPrivacy/Auditra/master/assets/app_icon.png" width="80" alt="" />
+
 # MrCrypPrivacy
 
 I care about digital privacy and how easily most systems give it away.
@@ -5,26 +9,22 @@ Most of my work is offensive security: finding the gaps before someone
 else does, so they can get fixed before someone with worse intentions
 finds them first. OSCP certified.
 
+</div>
+
 ## Currently building
 
-### [Auditra](https://github.com/MrCrypPrivacy/Auditra)
+**[Auditra](https://github.com/MrCrypPrivacy/Auditra)** — a desktop
+trade analytics dashboard for Hyperliquid wallets, built with Flutter.
 
-A desktop trade analytics dashboard for Hyperliquid wallets. Point it at
-a public wallet address and it builds a full picture of your trading:
-PnL, win rate, drawdown, time patterns, behavior, fees, and custom rule
-breaches. No API keys, no account, reads only public on-chain data.
-
-Flutter, every chart hand-written with `CustomPainter`, 10 languages,
-live sync over WebSocket.
+<div align="center">
 
 [![Auditra overview screenshot](https://raw.githubusercontent.com/MrCrypPrivacy/Auditra/master/screenshots/overview-1.png)](https://github.com/MrCrypPrivacy/Auditra)
 
+</div>
+
 ## What I work with
 
-**Security:** Kali Linux, Tails, Burp Suite, Metasploit, Nmap, Wireshark,
-John the Ripper
-
-**Development:** Flutter/Dart, Python, Docker
+Flutter/Dart, Python, Docker
 
 ## Contact
 
