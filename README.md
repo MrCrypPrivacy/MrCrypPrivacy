@@ -1,32 +1,30 @@
 # MrCrypPrivacy
 
-Offensive security specialist (OSCP) and developer. Most of my work is
-finding the gaps in a system before someone with worse intentions does,
-and I build software on the side, usually because I want a tool that
-doesn't already exist the way I want it.
-
-Digital privacy is the thread through both: I care about systems that
-don't quietly give away more than they should, whether that's a network
-I'm testing or an app I'm writing.
+I care about digital privacy and how easily most systems give it away.
+Most of my work is offensive security: finding the gaps in a system
+before someone with worse intentions does. OSCP certified. I also build
+software on the side, usually to solve a problem I ran into myself.
 
 ## Projects
 
 - **[Auditra](https://github.com/MrCrypPrivacy/Auditra)** — desktop
-  trade analytics dashboard for Hyperliquid wallets. Flutter, no backend,
-  reads only public on-chain data.
+  trade analytics dashboard for Hyperliquid wallets. Flutter, no
+  backend, reads only public on-chain data.
 - **[qr_generator](https://github.com/MrCrypPrivacy/qr_generator)** —
   local-only Python QR code generator.
 
-## Skills
+## Languages and tools
 
-**Security:** Kali Linux · Tails · Burp Suite · Metasploit · Nmap ·
-Wireshark · John the Ripper
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Metasploit](https://img.shields.io/badge/Metasploit-6f2c91?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-00547e?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-00CED1?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 
-**Development:** Flutter · Dart · Python · Docker
-
-## GitHub stats
-
-![MrCrypPrivacy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCrypPrivacy&show_icons=true&theme=dark&hide_border=true)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 ## Contact
 
