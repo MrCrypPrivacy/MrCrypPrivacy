@@ -1,131 +1,141 @@
 <div align="center">
 
-<img src="./logo.svg" alt="MrCrypPrivacy" width="420">
+<img src="./logo.svg" alt="MrCrypPrivacy" width="160">
 
 # MrCrypPrivacy
 
-### Security · Privacy · Open Source
+### Open-source Maintainer & Contributor
 
-**Open-source Maintainer & Contributor**
+**Privacy · Security · Software**
 
 <br>
 
-[![X](https://img.shields.io/badge/@MrCrypPrivacy-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
+**ɴᴏ ᴅᴀᴛᴀ. ɴᴏ ᴛʀᴜꜱᴛ. ᴋɴᴏᴡ ᴇᴠᴇʀʏ ᴠᴜʟɴ.**
+
+<br>
+
+[![X](https://img.shields.io/badge/X-@MrCrypPrivacy-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
 [![GitHub](https://img.shields.io/badge/GitHub-MrCrypPrivacy-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/MrCrypPrivacy)
 
 </div>
 
 ---
 
-## About
-
-I care about **digital privacy** and how easily most systems give it away.
-
-Most of my work is focused on **offensive security** — finding the gaps in a system before someone with worse intentions does.
-
-**OSCP certified.**
-
-I also build software on the side, usually to solve a problem I ran into myself.
-
----
-
-## What I do
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🔐 Security
-
-Offensive security, security research and security tooling.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🛡️ Privacy
-
-Privacy-focused software and tools designed to keep data where it belongs.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Open Source
-
-Building, maintaining and contributing to open-source projects.
-
-</td>
-</tr>
-</table>
-
----
-
-## Projects
-
-### 🔎 Auditra
-
-A desktop trade analytics dashboard for Hyperliquid wallets.
-
-Built with **Flutter**, with no backend, and designed to work with public on-chain data.
-
-→ [View Auditra](https://github.com/MrCrypPrivacy/Auditra)
-
-### 🔳 QR Generator
-
-A **local-only** QR code generator built with Python.
-
-No external services, no data sent online — everything happens locally.
-
-→ [View QR Generator](https://github.com/MrCrypPrivacy/qr_generator)
-
----
-
-## What I care about
-
-```text
-Privacy        →  Keep control of your own data.
-Security       →  Find weaknesses before they become problems.
-Open Source    →  Build in the open and give back.
-Local-first    →  If it doesn't need the cloud, don't use it.
-```
-
----
-
-## Currently building
-
-I'm always working on something.
-
-New security tools, privacy-focused software, open-source projects,
-and experiments born from problems I actually run into.
-
----
-
-## Tech
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,linux,bash,git,github&theme=dark">
+## About
+
+I build and maintain open-source software focused on **privacy, security, and user-controlled technology**.
+
+I enjoy turning real-world problems into practical tools — with an emphasis on transparency, local processing, and minimizing unnecessary dependencies or third-party services.
 
 </div>
 
 ---
 
-## Certification
+<div align="center">
 
-**OSCP — Offensive Security Certified Professional**
+## What I Work On
+
+|         🔐 Security         |      🛡️ Privacy     |      🧑‍💻 Open Source     |           ⚙️ Software          |
+| :-------------------------: | :------------------: | :------------------------: | :----------------------------: |
+| Security research & tooling | Local-first software | Maintaining & contributing | Practical tools & applications |
+
+</div>
 
 ---
 
-## Connect
+<div align="center">
+
+## Projects
+
+### [Auditra](https://github.com/MrCrypPrivacy/Auditra)
+
+**A desktop trade analytics dashboard for Hyperliquid wallets.**
+
+`Flutter` · `Dart` · `Desktop`
+
+<br>
+
+### Hushrate Miner
+
+**A privacy-focused Monero mining project.**
+
+`In Development`
+
+<br>
+
+### Privox
+
+**A privacy-focused, local-first real-time voice translation project.**
+
+`In Development`
+
+<br>
+
+### [QR Generator](https://github.com/MrCrypPrivacy/qr_generator)
+
+**A simple local QR code generator built with privacy in mind.**
+
+`Python` · `Local-first`
+
+</div>
+
+---
 
 <div align="center">
+
+## Technologies
+
+<br>
+
+**Languages**
+
+`Python` · `Dart` · `C#` · `GDScript` · `C/C++` · `Bash`
+
+<br><br>
+
+**Frameworks & Tools**
+
+`Flutter` · `Godot` · `Linux` · `Git` · `GitHub` · `Docker`
+
+<br><br>
+
+**Areas**
+
+`Cybersecurity` · `Privacy` · `Open Source` · `Blockchain`
+
+</div>
+
+---
+
+<div align="center">
+
+## Open Source
+
+I believe software should be **transparent, auditable, and accessible**.
+
+I'm interested in building, maintaining, and contributing to projects that give users more control over their technology and their data.
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect
 
 [![X](https://img.shields.io/badge/X-@MrCrypPrivacy-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
 
 <br><br>
 
-**Security · Privacy · Open Source**
+**Open to collaboration, contributions, and interesting projects.**
+
+<br>
+
+---
+
+<sub>ɴᴏ ᴅᴀᴛᴀ. ɴᴏ ᴛʀᴜꜱᴛ. ᴋɴᴏᴡ ᴇᴠᴇʀʏ ᴠᴜʟɴ.</sub>
 
 </div>
 
