@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./logo.svg" alt="MrCrypPrivacy" width="140">
+<img src="./logo.png" alt="MrCrypPrivacy" width="140">
 
 # MrCrypPrivacy
 
 **Open-source Maintainer & Contributor · Privacy · Security · Software**
 
-**ɴᴏ ᴅᴀᴛᴀ. ɴᴏ ᴛʀᴜꜱᴛ. ᴋɴᴏᴡ ᴇᴠᴇʀʏ ᴠᴜʟɴ.**
+### ɴᴏ ᴅᴀᴛᴀ. ɴᴏ ᴛʀᴜꜱᴛ. ᴋɴᴏᴡ ᴇᴠᴇʀʏ ᴠᴜʟɴ.
 
 [![X](https://img.shields.io/badge/X-@MrCrypPrivacy-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
 
@@ -58,7 +58,7 @@ A simple local QR code generator built with privacy in mind.
 
 ## Technologies
 
-**Languages:** `Python` · `Dart` · `C#` · `GDScript` · `C/C++` · `Bash`
+**Languages:** `Python` · `Rust` · `Dart` · `C#` · `Java` · `GDScript` · `C/C++` · `Shell` · `HTML`
 
 **Tools & Frameworks:** `Flutter` · `Godot` · `Linux` · `Git` · `Docker` · `GitHub Actions`
 
@@ -78,12 +78,8 @@ I'm interested in building, maintaining, and contributing to projects that give 
 
 <div align="center">
 
-## Connect
-
-[![X](https://img.shields.io/badge/X-@MrCrypPrivacy-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
+[GitHub](https://github.com/MrCrypPrivacy) · [X](https://x.com/MrCrypPrivacy)
 
 **Open to collaboration, contributions, and interesting projects.**
-
-<sub>ɴᴏ ᴅᴀᴛᴀ. ɴᴏ ᴛʀᴜꜱᴛ. ᴋɴᴏᴡ ᴇᴠᴇʀʏ ᴠᴜʟɴ.</sub>
 
 </div>
