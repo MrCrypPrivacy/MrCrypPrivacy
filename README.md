@@ -1,31 +1,124 @@
+<div align="center">
+
+<img src="./logo.svg" alt="MrCrypPrivacy Logo" width="420"/>
+
 # MrCrypPrivacy
 
-I care about digital privacy and how easily most systems give it away.
-Most of my work is offensive security: finding the gaps in a system
-before someone with worse intentions does. OSCP certified. I also build
-software on the side, usually to solve a problem I ran into myself.
+### Offensive Security · Privacy · Open Source
+
+**Open-source Maintainer & Contributor**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/MrCrypPrivacy)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/MrCrypPrivacy)
+
+</div>
+
+---
+
+## About
+
+I'm a security-focused developer interested in **privacy, offensive security and open-source software**.
+
+I build, maintain and contribute to projects that I find useful, while experimenting with new ideas and tools along the way.
+
+My approach is simple:
+
+> **Build useful things. Keep them open. Respect privacy.**
+
+---
+
+## What I do
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔐 Security
+
+Offensive security, security research and security tooling.
+
+</td>
+<td width="33%" align="center">
+
+### 🛡️ Privacy
+
+Privacy-focused software and tools designed with privacy in mind.
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ Open Source
+
+Maintaining, contributing to and building open-source projects.
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Projects
 
-- **[Auditra](https://github.com/MrCrypPrivacy/Auditra)** — desktop
-  trade analytics dashboard for Hyperliquid wallets. Flutter, no
-  backend, reads only public on-chain data.
-- **[qr_generator](https://github.com/MrCrypPrivacy/qr_generator)** —
-  local-only Python QR code generator.
+### 🔎 Auditra
 
-## Languages and tools
+A security-focused open-source project I'm currently developing.
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![Metasploit](https://img.shields.io/badge/Metasploit-6f2c91?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-00547e?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Nmap](https://img.shields.io/badge/Nmap-00CED1?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+**Repository:** [MrCrypPrivacy/Auditra](https://github.com/MrCrypPrivacy/Auditra)
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+### 🛠️ More projects
 
-## Contact
+I'm continuously experimenting with new tools, ideas and projects around security, privacy and open source.
 
-[X / Twitter](https://x.com/MrCrypPrivacy)
+Take a look through my repositories to see what I'm currently building.
+
+[**→ Explore my repositories**](https://github.com/MrCrypPrivacy?tab=repositories)
+
+---
+
+## Currently working on
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🔐 Security & privacy tooling                              │
+│  ⚙️  Open-source projects                                   │
+│  🧪 Experiments & new ideas                                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+Always building something.
+
+---
+
+## Tech
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,godot&theme=dark" />
+
+</div>
+
+---
+
+## Certifications
+
+**OSCP — Offensive Security Certified Professional**
+
+---
+
+## Find me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MrCrypPrivacy-181717?style=for-the-badge\&logo=github)](https://github.com/MrCrypPrivacy)
+[![X](https://img.shields.io/badge/X-@MrCrypPrivacy-000000?style=for-the-badge\&logo=x)](https://x.com/MrCrypPrivacy)
+
+<br><br>
+
+**Open source · Security · Privacy**
+
+</div>
+
