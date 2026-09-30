@@ -45,7 +45,7 @@ A desktop trade analytics dashboard for Hyperliquid wallets.
 **Hushrate Miner**
 A privacy-focused Monero mining project. · `In Development`
 
-**Privox**
+**[Privox](https://github.com/MrCrypPrivacy/Privox)**
 A privacy-focused, local-first real-time voice translation project. · `In Development`
 
 **[QR Generator](https://github.com/MrCrypPrivacy/qr_generator)**
