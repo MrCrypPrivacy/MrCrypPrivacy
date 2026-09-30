@@ -46,7 +46,7 @@ A desktop trade analytics dashboard for Hyperliquid wallets.
 A privacy-focused Monero mining project. · `In Development`
 
 **[Privox](https://github.com/MrCrypPrivacy/Privox)**
-A privacy-focused, local-first real-time voice translation project. · `In Development`
+A privacy-focused, local-first real-time voice translation project. · `Rust` · `Python`
 
 **[QR Generator](https://github.com/MrCrypPrivacy/qr_generator)**
 A simple local QR code generator built with privacy in mind.
