@@ -36,21 +36,6 @@ Security research & tooling · Local-first software · Open-source maintenance &
 
 <div align="center">
 
-## Projects
-
-**[Auditra](https://github.com/MrCrypPrivacy/Auditra)**
-A desktop trade analytics dashboard for Hyperliquid wallets.
-`Flutter` · `Dart` · `Desktop`
-
-**Hushrate Miner**
-A privacy-focused Monero mining project. · `In Development`
-
-**[Privox](https://github.com/MrCrypPrivacy/Privox)**
-A privacy-focused, local-first real-time voice translation project. · `Rust` · `Python`
-
-**[QR Generator](https://github.com/MrCrypPrivacy/qr_generator)**
-A simple local QR code generator built with privacy in mind.
-`Python` · `Local-first`
 
 </div>
 
